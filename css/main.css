@@ -372,7 +372,7 @@ a {
 .info {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("img/backinfo.jpg");
+  background-image: url("../img/backinfo.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   -webkit-backdrop-filter: blur(2px);
@@ -602,7 +602,7 @@ a {
 }
 
 .menu-block-title {
-  background-image: url("img/backmenu-card.png");
+  background-image: url("../img/backmenu-card.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
@@ -636,7 +636,7 @@ a {
 .menu {
   padding-top: 200px;
   padding-bottom: 50px;
-  background-image: url("img/backmenu.jpg");
+  background-image: url("../img/backmenu.jpg");
   background-color: #434242;
   background-size: cover;
   background-repeat: no-repeat;
@@ -725,7 +725,7 @@ a {
 }
 
 .deliver {
-  background-image: url("img/backdeliver.jpg");
+  background-image: url("../img/backdeliver.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   padding: 110px 0;

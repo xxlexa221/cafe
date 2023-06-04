@@ -363,10 +363,12 @@ a {
   opacity: 1;
   visibility: visible;
 }
-.burger-block{
-  position:absolute;
-  @include small-tablet{
-    position:relative;
+.burger-block {
+  display: none;
+}
+@media (max-width: 768px) {
+  .burger-block {
+    display: block;
   }
 }
 .info {

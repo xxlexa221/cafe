@@ -364,9 +364,9 @@ a {
   visibility: visible;
 }
 .burger-block{
-  display: none;
+  position:absolute;
   @include small-tablet{
-    display: block;
+    position:relative;
   }
 }
 .info {
